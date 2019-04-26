@@ -1,0 +1,11 @@
+{ 
+   "ID" : 122, 
+   "Nomenclature" : "Particle Blaster 5000", 
+   "Stat" : { 
+      "Manufacturer" : "XYZ Inc.", 
+      "sales" : "1M+", 
+      "quantity" : 500, 
+      "img_src" : "http://www.xyz.com/manuals/particleblaster5000.jpg", 
+      "description" : "A laser cutter used in plastic manufacturing." 
+   } 
+}

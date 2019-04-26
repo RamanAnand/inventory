@@ -1,0 +1,4 @@
+com\raman\apis\InventoryController.class
+com\raman\inventory\Application.class
+com\raman\dao\InventoryService.class
+com\raman\model\InventoryModel.class
